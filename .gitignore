@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+# hide API key file
+secrets.properties
